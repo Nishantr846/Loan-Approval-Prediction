@@ -4,28 +4,28 @@ This project implements a Loan Approval Prediction System using a Support Vector
 
 ## Features
 ### Input Features:
-Gender
-Marital Status
-Number of Dependents
-Education Level
-Employment Status
-Applicant Income
-Co-applicant Income
-Loan Amount
-Loan Term
-Credit History
-Property Area
+### Gender
+### Marital Status
+### Number of Dependents
+### Education Level
+### Employment Status
+### Applicant Income
+### Co-applicant Income
+### Loan Amount
+### Loan Term
+### Credit History
+### Property Area
 
 ### Output:
-Loan Approved or Loan Not Approved
-Technologies Used
-Programming Language: Python
-Libraries:
-pandas for data handling
-numpy for numerical operations
-scikit-learn for machine learning models
-StandardScaler for feature scaling
-SVM for prediction
+### Loan Approved or Loan Not Approved
+### Technologies Used
+### Programming Language: Python
+### Libraries:
+### pandas for data handling
+### numpy for numerical operations
+### scikit-learn for machine learning models
+### StandardScaler for feature scaling
+### SVM for prediction
 
 ## Getting Started
 
@@ -75,17 +75,18 @@ User inputs are transformed and passed to the model for prediction.
 example_data = [1, 0, 1, 0, 2, 4000, 1500, 128, 360, 1, 1]
 Explanation of Input
 Feature	Value Description
-Gender	1: Male, 0: Female
-Married	1: Yes, 0: No
-Dependents	0, 1, 2, 4
-Education	1: Graduate, 0: Not Graduate
-Self_Employed	1: Yes, 0: No
-ApplicantIncome	Income of the applicant in numbers
-CoapplicantIncome	Income of the co-applicant in numbers
-LoanAmount	Loan amount in thousands
-Loan_Amount_Term	Loan term in months
-Credit_History	1: Good, 0: Bad
-Property_Area	0: Rural, 1: Semiurban, 2: Urban
+### Gender	1: Male, 0: Female
+### Married	1: Yes, 0: No
+### Dependents	0, 1, 2, 4
+### Education	1: Graduate, 0: Not Graduate
+### Self_Employed	1: Yes, 0: No
+### ApplicantIncome	Income of the applicant in numbers
+### CoapplicantIncome	Income of the co-applicant in numbers
+### LoanAmount	Loan amount in thousands
+### Loan_Amount_Term	Loan term in months
+### Credit_History	1: Good, 0: Bad
+### Property_Area	0: Rural, 1: Semiurban, 2: Urban
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
