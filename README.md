@@ -87,15 +87,15 @@ Feature	Value Description
 ### Credit_History	1: Good, 0: Bad
 ### Property_Area	0: Rural, 1: Semiurban, 2: Urban
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Feel free to submit a pull request or open an issue if you find bugs or want to add features!
 
-Contact
+### Contact
 For any queries, please reach out to:
 
-Name: Nishant
-Email: nishantr846@gmail.com
-GitHub: Nishantr846
+### Name: Nishant
+### Email: nishantr846@gmail.com
+### GitHub: Nishantr846
